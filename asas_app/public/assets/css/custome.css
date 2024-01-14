@@ -1,0 +1,13 @@
+body{
+    background-image: url('../image/app/back.png') !important;
+    /* background-image: url('/images/app/back.png') !important; */
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.select2-dropdown{
+    position: initial !important;
+    z-index: 99999 !important;
+}
+
+
+
